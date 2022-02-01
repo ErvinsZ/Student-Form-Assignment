@@ -6,8 +6,6 @@ where the submitted information about students is displayed in rows.
 It is also possible to delete student data from the table in case wrong information 
 has been added
 
-![Alt Text](React-App.gif)
-
 # Technologies Used:
     * React Js
         * Functional components
