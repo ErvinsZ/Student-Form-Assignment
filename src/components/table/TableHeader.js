@@ -1,0 +1,1 @@
+export const tableHeader = ["Full Name", "Start Date", "Class", ""];

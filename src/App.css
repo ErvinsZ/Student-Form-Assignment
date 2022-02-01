@@ -1,0 +1,18 @@
+body, input, select, button{font-family: 'Montserrat', sans-serif;}
+
+::placeholder{color:#8b7cbd}
+
+.react-datepicker__month-dropdown-container--select{margin-top:10px !important}
+
+.react-datepicker__triangle{display:none}
+
+select{
+        width:100%;
+        border:none;
+        border-bottom: solid 2px #7c79cd;
+        font-size: 16px;
+        outline:none;
+        padding-bottom: 3px;
+        box-shadow: 0px 4px 8px -3px #d5d5d5;
+        color:#8b7cbd
+      }
